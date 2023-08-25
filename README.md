@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Qualys VMDR-Vulnerability Management, Detection and Response application (VMDR) Project | Home Lab</b>
-  - https://https://github.com/str8sk8tr/Qualys-VMDR-Vulnerability-Management-Detection-and-Response-application-VMDR
+  - [https://https://github.com/str8sk8tr/Qualys-VMDR-Vulnerability-Management-Detection-and-Response-application-VMDR](https://github.com/str8sk8tr/Qualys-VMDR-Vulnerability-Management-Detection-and-Response-application-VMDR-)
 
 <h2>Cybersecurity Certificates:</h2>
 https://github.com/str8sk8tr/Online-Certificates
