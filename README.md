@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects | Home Labs</b></h2>
 
 - <b>Qualys VMDR-Vulnerability Management, Detection and Response application (VMDR)</b>
-  - https://github.com/str8sk8tr/Qualys-VMDR-Vulnerability-Management-Detection-and-Response-application
+  - https://github.com/str8sk8tr/Qualys-VMDR-Vulnerability-Management-Detection-and-Response-application-VMDR-
   
 - <b>Maltego</b>
   - https://github.com/str8sk8tr/Maltego/tree/master
