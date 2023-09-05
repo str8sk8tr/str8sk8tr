@@ -11,7 +11,7 @@
 - <b>Wireshark</b>
   - https://github.com/str8sk8tr/Wireshark
 
-<h2>Cybersecurity Certificates:</h2>
+<h2>Cybersecurity Certificates</h2>
 
 https://github.com/str8sk8tr/Online-Certificates
 
