@@ -4,12 +4,16 @@
 
 - <b>Qualys-Vulnerability Management, Detection and Response application (VMDR)</b>
   - https://github.com/str8sk8tr/Qualys-VMDR-Vulnerability-Management-Detection-and-Response-application-VMDR-
-  
+
+- <b>Nmap-Network Vulnerability Scanner</b>
+  - https://github.com/str8sk8tr/Nmap-Network-Vulnerability-Scanner/tree/main
+
+- <b>Wireshark</b>
+  - https://github.com/str8sk8tr/Wireshark
 - <b>Maltego</b>
   - https://github.com/str8sk8tr/Maltego/tree/master
       
-- <b>Wireshark</b>
-  - https://github.com/str8sk8tr/Wireshark
+
 
 <h2>Cybersecurity Certificates</h2>
 
